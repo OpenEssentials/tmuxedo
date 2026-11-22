@@ -77,7 +77,9 @@ A small, open-source **runner** on your Mac or Linux machine (Windows is coming)
 
 ## Open source
 
-tmuxedo is being prepared for an open-source release. The code, licence and contribution guide will appear in this repository. There's nothing to build here yet: watch or star the repository, or [join the Discord](https://discord.gg/VXN6JAtWxr), to hear when it lands.
+tmuxedo is being prepared for an open-source release. The code, licence and contribution guide will appear in this repository.
+
+> **The code will be beta too.** When it's published here, expect bugs, rough edges, missing docs and breaking changes between versions. Please report issues and send fixes; that's what the beta is for. Don't depend on it for anything critical yet. There's nothing to build here yet: watch or star the repository, or [join the Discord](https://discord.gg/VXN6JAtWxr), to hear when it lands.
 
 ---
 
