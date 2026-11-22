@@ -2,11 +2,11 @@
   <img src="docs/images/banner.jpg" alt="tmuxedo: Leave your desk. Your agents keep going. A list of agents: one needs you, two working, two done." width="100%">
 </p>
 
-# tmuxedo
+# tmuxedo  ·  beta
 
 **Leave your desk. Your agents keep going.**
 
-> **Coming soon.** tmuxedo is in an invite-only preview at [tmuxedo.dev](https://tmuxedo.dev). The source code will be published here.
+> **Beta.** tmuxedo is in an invite-only beta at [tmuxedo.dev](https://tmuxedo.dev): it works, it's in daily use, and it's still changing. Expect rough edges and tell us about them. The source code will be published here.
 >
 > **Want an invite, or to follow along?** Join our Discord: **[discord.gg/VXN6JAtWxr](https://discord.gg/VXN6JAtWxr)**
 
@@ -70,10 +70,10 @@ A small, open-source **runner** on your Mac or Linux machine (Windows is coming)
 
 ## Get it
 
-- **Web:** [tmuxedo.dev](https://tmuxedo.dev), invite only for now.
-- **iPhone:** coming soon to the App Store.
+- **Web:** [tmuxedo.dev](https://tmuxedo.dev), an invite-only beta for now.
+- **iPhone:** in beta; coming soon to the App Store.
 - **Mac:** a menu-bar app for your machines and the agents that need you.
-- **Invites and updates:** [join our Discord](https://discord.gg/VXN6JAtWxr).
+- **Beta invites and updates:** [join our Discord](https://discord.gg/VXN6JAtWxr).
 
 ## Open source
 
